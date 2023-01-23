@@ -6,6 +6,8 @@ Click on the Alan Walker Image in the Popular Artists Section to visit the Secon
 
 To play the song on the First page click on the image of second song in the Latest Release Section.
 
+Link of the Project: beatpulse.netlify.app
+
 
 Previews are...
 
